@@ -1,0 +1,5 @@
+# plain-business-english bundle patch: registers the skill with DSH.
+# Ships SKILL.md only — no host-process code, no browser client.
+- insert:
+    - id: plain-business-english
+      name: 'plain-business-english'

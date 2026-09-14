@@ -1,0 +1,15 @@
+{
+  "name": "plain-business-english",
+  "version": "0.1.0",
+  "description": "Business English at its register for non-native writers: state facts at their size, lead with the point, cut enthusiasm inflation and hedging, keep jokes out of cross-cultural mail — one SKILL.md that disciplines tone without flattening the writer's voice.",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenneyZhuang/plain-business-english.git"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  }
+}
