@@ -27,6 +27,14 @@ English business register rewards **calibration**: a calm sentence with a number
 
 **按事实本来的尺寸陈述它。**小事写大，读起来不可靠；大事写得平静，读起来可信。句子的能量对齐事实的尺寸，语域问题就解决了大半。
 
+## Honest limitations / 如实说明局限
+
+- Register norms vary by industry and company culture; the skill states defaults, not laws.
+- It will not fix weak arguments — only make honest ones land at their true size.
+- Idiomatic fluency is out of scope; this is calibration, not ghostwriting.
+
+语域规范因行业和公司文化而异；skill 给的是默认值不是法律。它不修论证薄弱——只让诚实的内容以真实分量落地。地道流利不在范围内；这是校准，不是代写。
+
 ## Install / 安装
 
 ```bash
