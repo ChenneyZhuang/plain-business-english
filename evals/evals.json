@@ -1,0 +1,23 @@
+{
+  "skill_name": "plain-business-english",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "把这封中文邮件写成英文发给客户：王总您好，之前发您的报价不知道您看了没有，如果有什么问题随时联系我",
+      "expected_output": "A natural English business email that re-derives the intent (a polite nudge) without literal idiom translation — direct restatement of the ask, no 'please advise', register matched to the ask's size.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "my English email sounds too aggressive, help me soften it",
+      "expected_output": "A rewrite with the same ask but matched politeness weight; passive-aggressive stock phrases replaced by direct restatement; meaning unchanged.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Reply to the client's delay apology in plain professional English",
+      "expected_output": "A short, warm, plain reply that acknowledges, states impact factually, and asks for a revised date — no exaggerated enthusiasm.",
+      "files": []
+    }
+  ]
+}

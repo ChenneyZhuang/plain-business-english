@@ -17,6 +17,10 @@ metadata:
 
 # Plain Business English: facts at their size
 
+## When to use
+
+Use when writing or rewriting English business email/messages for non-native (especially Chinese L1) writers, when a draft sounds too aggressive or too vague, or when translating Chinese business correspondence intent into natural English. Not for marketing copy or legal notices.
+
 English business register rewards calibration: a calm sentence with a number
 persuades more than an excited one without. The common failures are all
 inflation — enthusiasm, apology, certainty — plus padding that buries the
@@ -69,3 +73,9 @@ it; this skill does.
 The message leads with its point, states its facts at their size, carries no
 inflation markers, hedges only real uncertainty, and matches the channel's
 register — while still sounding like the person who sent it.
+
+## Gotchas / 常见坑
+
+- Formal is not polite: 'I would be grateful if you could...' reads heavier than 'Could you...' — match weight to the size of the ask.
+- Mapping Chinese courtesy idioms literally reads sarcastic or overwrought in English; re-derive the intent, then re-express it.
+- 'Please advise' and 'as per my last email' carry passive-aggressive freight in English corporate culture; restate the ask directly instead.
